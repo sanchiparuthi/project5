@@ -1,0 +1,37 @@
+body{
+    background-image:url('beetle.gif');
+    background-size:cover;
+    background-attachment: fixed;
+    background-blend-mode: luminosity;
+}
+
+h1{
+    font-size: 60px;
+    font-family: fantasy;
+    color: rgb(75, 8, 67);
+    text-align: center;
+    text-shadow: 2px 2px 5px rgb(131, 115, 115);
+    margin-top: 300px;
+}
+
+    #buttonPos{
+        position: relative;
+            bottom: 20%;
+            left: 50%;
+    
+          
+    }
+    #startQuiz {
+        background-color: rgba(92, 130, 75, 0.853);
+        cursor: pointer;
+        padding: 15px 32px;
+      text-align: center;
+      font-family: monospace;
+      
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      border-radius: 8px ;
+    }
+
+
